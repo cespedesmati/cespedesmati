@@ -8,7 +8,8 @@
 - 📫 Si queres contactarme: **matias.cespedes@outlook.com**
 
 - 📚 Education:
-        <p align="left">  • Tecnicatura en Desarrollo de Softwatr in [UADE](https://www.uade.edu.ar/) (2020 - 2023)<br/><br/></p>
+        <p align="left">  • Tecnicatura en Desarrollo de Softwatr in [UADE](https://www.uade.edu.ar/) (2020 - 2023)<br/>
+                                • OOP, Patrones de diseño, Metodologías agiles, Python, Java, Análisis de Algoritmos, Análisis de requerimientos, Testing, SQL, NO SQL <br/></p>
 
   <hr/>
   <h3 align="left">Connect with me:</h3>
