@@ -1,11 +1,9 @@
 <h1 align="center">Hola 👋, Soy Matias Cespedes</h1>
 <h3 align="center">Estudiante de Desarrollo de Software</h3>
 
-- 🔭 Busco dar mi primer paso en el mundo IT, quiero ser parte un proyecto donde pueda potenciar mis habilidades, crecer profesionalmente y poner en práctica los conocimientos adquiridos.
+- 🔭 Busco dar mi primer paso en el mundo IT, quiero ser parte un proyecto donde pueda potenciar mis habilidades, crecer profesionalmente y poner en práctica mis conocimientos.
 
-- 📫 Si queres contactarme: **matias.cespedes@outlook.com**
-
-- 📚 Education:
+- 📚 Educacion:
         <p align="left">  • Tecnicatura en Desarrollo de Software in [UADE](https://www.uade.edu.ar/) (2020 - 2023)<br/>
                                 <br/>• OOP, Patrones de diseño, Metodologías agiles, Análisis de Algoritmos, Análisis de requerimientos, Testing, SQL, NO SQL <br/></p>
 
