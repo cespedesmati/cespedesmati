@@ -3,12 +3,10 @@
 
 - 🔭 Busco dar mi primer paso en el mundo IT, quiero ser parte un proyecto donde pueda potenciar mis habilidades, crecer profesionalmente y poner en práctica los conocimientos adquiridos.
 
-- 👨‍💻 Puedes ver mi proyectos en [repositorios](https://github.com/cespedesmati?tab=repositories)
-
 - 📫 Si queres contactarme: **matias.cespedes@outlook.com**
 
 - 📚 Education:
-        <p align="left">  • Tecnicatura en Desarrollo de Softwatr in [UADE](https://www.uade.edu.ar/) (2020 - 2023)<br/>
+        <p align="left">  • Tecnicatura en Desarrollo de Software in [UADE](https://www.uade.edu.ar/) (2020 - 2023)<br/>
                                 <br/>• OOP, Patrones de diseño, Metodologías agiles, Análisis de Algoritmos, Análisis de requerimientos, Testing, SQL, NO SQL <br/></p>
 
   <hr/>
